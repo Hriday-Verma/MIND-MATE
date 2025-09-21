@@ -1,6 +1,8 @@
 # MIND-MATE
 Mind Mate 🧘‍♂️: A privacy-first mental wellness web app to support youth. Features an empathetic AI companion (English, Hindi &amp; Hinglish), mood tracking, and a suite of wellness exercises. No login required.
+
 Mind Mate - AI-Powered Mental Wellness Companion 🧘‍♂️
+
 Mind Mate is a privacy-focused web application designed to provide empathetic and supportive mental wellness guidance for youth and students. It offers a safe, anonymous space to express feelings, engage in wellness exercises, and track mood patterns.
 
 ✨ Core Features
