@@ -110,7 +110,7 @@ const ChatComponent = () => {
     - Keep responses concise and focused on validating their feelings and offering gentle support.`;
     
   const getAIAssistantResponse = async (userQuery) => {
-    const apiKey = ""; 
+    const apiKey = import.meta.env.VITE_GEMINI_API_KEY;
     const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=${apiKey}`;
     
     const payload = {
@@ -482,3 +482,4 @@ const CrisisSupportModal = ({ onClose }) => (
         </div>
     </div>
 );
+
